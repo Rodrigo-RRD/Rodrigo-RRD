@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🐉Estudando HTML
+📋Estudando HTML5-CSS3
+📋Estudando JAVA
+📋Estudando JAVASCRIPT
 
 
 <img width="530" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-RRD&show_icons=true&theme=synthwave"/>
