@@ -1,14 +1,21 @@
 ### Hi there 👋
 
-📋Estudando HTML5-CSS3
+✅HTML5-CSS3
 📋Estudando JAVA
-📋Estudando JAVASCRIPT
+📋Estudando PYTHON
 
-
+<div>
 <img width="530" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-RRD&show_icons=true&theme=synthwave"/>
-<img width="530" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRD&layout=compact)](https://github.com/Rodrigo-RRD/github-readme-stats"/>
+</div>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRD&layout=compact&theme=midnight-purple)](https://github.com/Rodrigo-RRD) 
+
+<div align="center" valign="top"><br>
+ 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+</div><br>
+
+
+
