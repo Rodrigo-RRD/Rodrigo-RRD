@@ -7,10 +7,12 @@
 
 <div align="center">
   
-### Main Skills: 
+![jjjjjohn (1)](https://user-images.githubusercontent.com/116466164/226486386-0addb904-194b-4f83-9eb3-3d998e8e46cd.gif)
+  ### Main Skills: 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp; 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -19,6 +21,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rodrigo-RRD&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Rodrigo-RRD/Rodrigo-RRD/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;">
 </div>
