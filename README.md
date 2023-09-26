@@ -37,7 +37,7 @@
 ### SKILLS
 <!--Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>-->
 
->>Machine learning | Cloud how aws<br>
+>>Cloud how aws<br>
 >>Cyber Security
 <!--Bigdata | Hadoop<br>-->
 
