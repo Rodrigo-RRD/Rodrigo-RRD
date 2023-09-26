@@ -32,7 +32,7 @@
 
 <hr width=100%/>
 
-<img align='right' src="https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/cd064e28-1a45-49e9-a61e-a80bf65c0be6" width="350">
+<img align='right' src="https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/cd064e28-1a45-49e9-a61e-a80bf65c0be6" width="328">
 
 ### SKILLS
 <!--Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>-->
