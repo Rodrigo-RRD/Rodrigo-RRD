@@ -34,8 +34,10 @@
 ### SKILLS
 <!--Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>-->
 
->>Cloud how aws<br>
->>Cyber Security
+>>API REST<br>
+>>Docker<br>
+>>Redis<br>
+>>Nginx (Reverse proxy server)
 <!--Bigdata | Hadoop<br>-->
 
 
