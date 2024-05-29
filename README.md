@@ -2,7 +2,7 @@
 
 [![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=9932cc&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Rodrigo+Rodriguês;(っ◕‿◕)っI'm+20+years+old;I+from+Brasil,+GO;I+Studying+Software+Engineering+at+UNIFAN;Be+Welcome!>)](https://git.io/typing-svg)
 
-![Animated cityscapes](https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/36ec1d74-984e-4115-bed0-45565c8415ad)
+<!--![Animated cityscapes](https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/36ec1d74-984e-4115-bed0-45565c8415ad)-->
 
 </div>
 
@@ -17,18 +17,15 @@
 ### Languages:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Tools:
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 <hr width=100%/>
 
