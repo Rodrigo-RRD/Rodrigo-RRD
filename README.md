@@ -6,10 +6,10 @@
 
 </div>
 
-<div align="center">  
+<!--<div align="center">  
   <img width="57%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rodrigo-RRD&show_icons=true&count_private=true&hide_border=true&title_color=9932cc&icon_color=c19bd8&text_color=c9d1d9&bg_color=0d1117" alt="Rodrigo-RRD github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRD&layout=compact&hide_border=true&title_color=9932cc&text_color=ffffff&bg_color=0d1117" />
-</div>
+</div>-->
 
 <img align='left' src="https://user-images.githubusercontent.com/116466164/226486386-0addb904-194b-4f83-9eb3-3d998e8e46cd.gif" width="230">
 
