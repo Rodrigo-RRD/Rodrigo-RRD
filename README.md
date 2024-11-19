@@ -34,22 +34,22 @@
 
 <hr width=100%/>
 
-<img align='right' src="https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/cd064e28-1a45-49e9-a61e-a80bf65c0be6" width="328">
+<!--<img align='right' src="https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/cd064e28-1a45-49e9-a61e-a80bf65c0be6" width="328">-->
 
-### SKILLS
+<!-- ### SKILLS -->
 <!--Devops tools (Docker | Kubernetes | Jenkins | Ansible | Prometheus | Grafana)<br>-->
 
->>API REST<br>
->>Docker<br>
->>Redis<br>
->>Nginx (Reverse proxy server)
-<!--Bigdata | Hadoop<br>-->
+<!-- >>API REST<br>-->
+<!-- >>Docker<br>-->
+<!-- >>Redis<br>-->
+<!-- >>Nginx (Reverse proxy server)-->
+<!-- Bigdata | Hadoop<br>-->
 
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 <hr width=100%/>
 
