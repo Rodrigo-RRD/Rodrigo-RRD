@@ -9,7 +9,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-RRD&layout=compact&hide_border=true&title_color=9932cc&text_color=ffffff&bg_color=0d1117" />
 </div>-->
 
-<img align='left' src="https://user-images.githubusercontent.com/116466164/226486386-0addb904-194b-4f83-9eb3-3d998e8e46cd.gif" width="250">
+<img align='left' src="https://user-images.githubusercontent.com/116466164/226486386-0addb904-194b-4f83-9eb3-3d998e8e46cd.gif" width="280">
 
 
 ### Languages:
@@ -21,8 +21,9 @@
 ### Tools:
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 
 ### DevOps:
