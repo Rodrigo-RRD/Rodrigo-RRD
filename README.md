@@ -1,7 +1,5 @@
 <div align="center">
-
-<!--[![Typing SVG](<https://readme-typing-svg.herokuapp.com/?color=9932cc&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Rodrigo+Rodriguês;(っ◕‿◕)っI'm+20+years+old;I+from+Brasil,+GO;I+Studying+Software+Engineering+at+UNIFAN;Be+Welcome!>)](https://git.io/typing-svg)-->
-
+  
 <!--![Animated cityscapes](https://github.com/Rodrigo-RRD/Rodrigo-RRD/assets/116466164/36ec1d74-984e-4115-bed0-45565c8415ad)-->
 
 </div>
